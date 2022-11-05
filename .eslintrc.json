@@ -226,5 +226,5 @@
         "wrap-regex": ["off"],
         "yield-star-spacing": ["warn"]
     },
-    "ignorePatterns": ["**/*.test.js"]
+    "ignorePatterns": ["**/*.test.js", "system/solution.js"]
 }
